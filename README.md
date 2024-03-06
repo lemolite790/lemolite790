@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lemolite_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lemolite_ai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/company/lemolite-technologies-llp/mycompany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/lemolite-technologies-llp/mycompany/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/company/31339363/admin/feed/posts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/31339363/admin/feed/posts/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemolite790&show_icons=true&locale=en" alt="lemolite790" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemolite790&" alt="lemolite790" /></p>
+
 
