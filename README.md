@@ -1,7 +1,9 @@
 ### Hi there 👋
 <h1 align="center"> Hello👋, **Lemolite Technology's** GitHub profile!</h1>
 <h3 align="center">Lemolite Technology: Innovating in AI, ML, Data Engineering, and DevOps</h3>
-<img align="right" alt = "coding " width ="400" scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt = "coding " width ="400" 
+ src="https://aicdn.picsart.com/60e0f989-b1b2-4fdb-adc7-cecd58d0aa94.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemolite790&label=Profile%20views&color=0e75b6&style=flat" alt="lemolite790" /> </p>
 
