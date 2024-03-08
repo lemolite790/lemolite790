@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center"> Hello👋, **Lemolite Technology's** GitHub profile!</h1>
+<h1 align="center"> Hello👋, **Welcome to the GitHub profile of Lemolite Technologies! ** profile!</h1>
 <h3 align="center">Lemolite Technology: Innovating in AI, ML, Data Engineering, and DevOps</h3>
 <img align="right" alt = "coding " width ="400" 
  src="https://aicdn.picsart.com/60e0f989-b1b2-4fdb-adc7-cecd58d0aa94.gif">
